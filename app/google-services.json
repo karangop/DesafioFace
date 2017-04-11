@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437447745721",
+    "firebase_url": "https://desafioface-548d3.firebaseio.com",
+    "project_id": "desafioface-548d3",
+    "storage_bucket": "desafioface-548d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437447745721:android:7d09bfc86f3352ed",
+        "android_client_info": {
+          "package_name": "com.desafiolatam.desafioface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437447745721-6hl6vbd8ve9csl8hjkqfvtrb43plprqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFDapBX8c54mKQnlHAkNDGvcxpV-_FBlg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
